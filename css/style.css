@@ -429,8 +429,9 @@ h3 {
 }
 
 .service {
-  max-width: 500px;
   margin: 0 auto;
+  width: 31.3%;
+  float: left;
 }
 
 @media (min-width: 800px) {
