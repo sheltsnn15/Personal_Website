@@ -427,7 +427,7 @@ h3 {
 }
 
 .section__title--services {
-  color: var(--clr-accent);
+  color: var(--clr-dark);
   position: relative;
 }
 
