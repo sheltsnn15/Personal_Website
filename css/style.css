@@ -362,7 +362,7 @@ h3 {
 /*Intro section*/
 
 .intro {
-  background-image: url("/images/pexels-pixabay-509922.jpg");
+  background-image: url("../images/pexels-pixabay-509922.jpg");
   height: 90vh;
   position: relative;
   background-size: cover;
